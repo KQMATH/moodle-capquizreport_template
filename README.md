@@ -1,4 +1,4 @@
-# CAPQQuiz report template
+# CAPQuiz report template
 A template for developing CAPQuiz report plugins for Moodle.
 
 ## Documentation
