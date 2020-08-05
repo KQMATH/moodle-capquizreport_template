@@ -12,7 +12,7 @@ Extrat the folder from zip and copy it to your moodle/mod/capquiz/report/templat
 Login as admin and go to site `admin > notifications` and install.
 
 ## Credits
-CAPQQuiz report template is created by [André Storhaug](https://github.com/andstor) <andr3.storhaug@gmail.com>
+CAPQuiz report template is created by [André Storhaug](https://github.com/andstor) <andr3.storhaug@gmail.com>
 
 ## License
 CAPQQuiz report template is Licensed under the [GNU General Public, License Version 3](LICENSE).
